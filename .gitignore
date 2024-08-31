@@ -1,0 +1,16 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Next.js
+.next/
+node_modules/
+
+# Python
+venv/
+.env
+
+# misc
+
+notes.md
